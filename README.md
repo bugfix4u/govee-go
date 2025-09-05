@@ -31,7 +31,7 @@ import (
 
 ## Example Code
 
-Example code can be found in the [`example` folder](./example/README.md)
+Example code can be found in the [`example` folder](./govee/example/README.md)
 
 ## Govee Device Support
 
